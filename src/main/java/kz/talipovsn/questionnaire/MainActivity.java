@@ -48,5 +48,9 @@ public class MainActivity extends AppCompatActivity {
         // Запуск второго окна
         startActivity(intent);
     }
+    public void onBack(View v) {
+        setResult(RESULT_OK);
+        finish();
+    }
 
 }
