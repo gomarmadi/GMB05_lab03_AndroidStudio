@@ -1,9 +1,9 @@
 # GMB05_lab03_AndroidStudio
 Practical work 3. In the discipline of Mobile application development
 
-![Screenshot](Screenshot1.png)
-![Screenshot](Screenshot2.png)
-![Screenshot](Screenshot3.png)
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_2.png)
+![Screenshot](Screenshot_3.png)
 
 МЕТОД ДЛЯ КНОПКИ "ИТОГО"
 ```
