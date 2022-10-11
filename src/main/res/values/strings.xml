@@ -1,0 +1,37 @@
+<resources>
+    <!-- Название программы -->
+    <string name="app_name">GMB05_lab03</string>
+
+    <!-- Текстовые константы -->
+    <string name="YES">Согласен</string>
+    <string name="NO">Не согласен</string>
+    <string name="data">Заполните свои данные</string>
+    <string name="FIO">Введите сюда ФИО</string>
+    <string name="label_data">Использование данных:</string>
+    <string name="data_check">Даю согласие, на использование данных</string>
+    <string name="cource">Выберите необходимый курс:</string>
+    <string name="level">Ваш уровень:</string>
+    <string name="ИТОГО">ИТОГО</string>
+    <string name="web">Web-программирование</string>
+    <string name="java">Java программист</string>
+    <string name="uiux">UI/UX дизайн</string>
+    <string name="python">Python программист</string>
+    <string name="react_native">React Native разработчик</string>
+    <string name="Сводные_данные">Сводные данные:</string>
+    <string name="Назад">Назад</string>
+    <string name="Выход">Выход</string>
+    <string name="you">Вы:</string>
+    <string name="data_yes">Использование данных:</string>
+    <string name="course_result">Курс:</string>
+    <string name="level_result">Уровень:</string>
+
+    <!-- Массив строк -->
+    <string-array name="country_arrays">
+        <item>Начальный</item>
+        <item>Базовый</item>
+        <item>Средний</item>
+        <item>Профессиональный</item>
+        <item>Продвинутый</item>
+    </string-array>
+
+</resources>
